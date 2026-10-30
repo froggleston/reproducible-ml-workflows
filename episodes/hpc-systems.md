@@ -10,6 +10,7 @@ exercises: 10
 * What solutions exist for the resources you have?
 * Let's make some changes for a PR
 * And some more
+* It would be rude not to have more questions
 
 :::
 
